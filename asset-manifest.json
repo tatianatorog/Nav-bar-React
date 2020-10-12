@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tatianatorog/Nav-bar-React.git/static/css/main.799b0103.chunk.css",
+    "main.js": "/tatianatorog/Nav-bar-React.git/static/js/main.9fe62faa.chunk.js",
+    "main.js.map": "/tatianatorog/Nav-bar-React.git/static/js/main.9fe62faa.chunk.js.map",
+    "runtime-main.js": "/tatianatorog/Nav-bar-React.git/static/js/runtime-main.4d43d5cb.js",
+    "runtime-main.js.map": "/tatianatorog/Nav-bar-React.git/static/js/runtime-main.4d43d5cb.js.map",
+    "static/js/2.ff6437a4.chunk.js": "/tatianatorog/Nav-bar-React.git/static/js/2.ff6437a4.chunk.js",
+    "static/js/2.ff6437a4.chunk.js.map": "/tatianatorog/Nav-bar-React.git/static/js/2.ff6437a4.chunk.js.map",
+    "index.html": "/tatianatorog/Nav-bar-React.git/index.html",
+    "precache-manifest.4e96699823ce646bcf33fa7a09767b7a.js": "/tatianatorog/Nav-bar-React.git/precache-manifest.4e96699823ce646bcf33fa7a09767b7a.js",
+    "service-worker.js": "/tatianatorog/Nav-bar-React.git/service-worker.js",
+    "static/css/main.799b0103.chunk.css.map": "/tatianatorog/Nav-bar-React.git/static/css/main.799b0103.chunk.css.map",
+    "static/js/2.ff6437a4.chunk.js.LICENSE.txt": "/tatianatorog/Nav-bar-React.git/static/js/2.ff6437a4.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/tatianatorog/Nav-bar-React.git/static/media/img-7.66001cf8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d43d5cb.js",
+    "static/js/2.ff6437a4.chunk.js",
+    "static/css/main.799b0103.chunk.css",
+    "static/js/main.9fe62faa.chunk.js"
+  ]
+}
